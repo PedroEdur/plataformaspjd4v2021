@@ -354,8 +354,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 320
-    y: 79
+    x: 321
+    y: 24
     width: 1299
     height: 526
   m_SerializedDataModeController:
@@ -1008,7 +1008,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 319
     height: 526
   m_SerializedDataModeController:
@@ -1366,7 +1366,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 631
+    y: 576
     width: 1620
     height: 355
   m_SerializedDataModeController:
@@ -1410,7 +1410,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 74850000
     m_LastClickedID: 34164
-    m_ExpandedIDs: 000000004084000000ca9a3b
+    m_ExpandedIDs: 0000000040840000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1593,8 +1593,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1621
-    y: 79
+    x: 1
+    y: 24
     width: 298
     height: 671
   m_SerializedDataModeController:
@@ -1642,8 +1642,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "UnityEditor.Tilemaps.GridPaintPaletteWindow\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1621
-    y: 776
+    x: 1
+    y: 721
     width: 298
     height: 210
   m_SerializedDataModeController:
