@@ -1014,11 +1014,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2281895691327710225, guid: 8b12957c1e224439581a90c0a293e9b4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.82
+      value: 12.04
       objectReference: {fileID: 0}
     - target: {fileID: 2281895691327710225, guid: 8b12957c1e224439581a90c0a293e9b4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.29
+      value: -6.02
       objectReference: {fileID: 0}
     - target: {fileID: 2281895691336818248, guid: 8b12957c1e224439581a90c0a293e9b4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1074,19 +1074,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2281895691453935384, guid: 8b12957c1e224439581a90c0a293e9b4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 25.29
+      value: 28.67
       objectReference: {fileID: 0}
     - target: {fileID: 2281895691453935384, guid: 8b12957c1e224439581a90c0a293e9b4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.82
+      value: -9.34
       objectReference: {fileID: 0}
     - target: {fileID: 2281895692612022564, guid: 8b12957c1e224439581a90c0a293e9b4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.39
+      value: -5.47
       objectReference: {fileID: 0}
     - target: {fileID: 2281895692612022564, guid: 8b12957c1e224439581a90c0a293e9b4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.78
+      value: -9.26
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19824,9 +19824,9 @@ PolygonCollider2D:
     m_Paths:
     - - {x: 312.51437, y: -14.858528}
       - {x: 365.43283, y: -14.632147}
-      - {x: 365.40747, y: -5.44045}
-      - {x: 365.1333, y: 19.291359}
-      - {x: 364.31348, y: 45.551952}
+      - {x: 407.5114, y: -14.7383995}
+      - {x: 407.7516, y: -6.9776726}
+      - {x: 406.9318, y: 46.103054}
       - {x: 246.6166, y: 44.773216}
       - {x: -32.74125, y: 44.233597}
       - {x: -32.36248, y: -29.182665}
